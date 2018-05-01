@@ -1,1 +1,3 @@
 # locality-surrogate
+
+Source to generate illustrations and reproduce experimentation in the paper...
